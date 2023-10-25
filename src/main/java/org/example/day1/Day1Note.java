@@ -11,6 +11,7 @@ public class Day1Note {
                 mvn clean, mvn test,...
 
         2. git
+            ss
 
 
          */
